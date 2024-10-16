@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 "# calculator" 
 "# calculator" 
 "# calculator" 
+"# calculator" 
